@@ -1,0 +1,22 @@
+{
+  "name": "smallgemhotel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cessy13/HotelRC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cessy13/HotelRC/issues"
+  },
+  "homepage": "https://github.com/cessy13/HotelRC#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
